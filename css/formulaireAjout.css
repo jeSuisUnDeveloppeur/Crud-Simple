@@ -1,0 +1,41 @@
+*,
+::after,
+::before{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+input{
+    display: inline-block;
+}
+
+span{
+    display: inline;
+    color:red;
+}
+
+label{
+    display: block;
+    color:white;
+}
+
+button{
+    display: inline;
+}
+div{
+    margin-top: 2%;
+    margin-left: 5%;
+}
+form{
+    margin:10% 10%;
+    padding: 5%;
+    background-color: rgb(71, 89, 121);
+}
+h1{
+    text-align: center;
+    background: rgb(71, 89, 121);
+    padding-block: 2%;
+    color:white;
+}
+
